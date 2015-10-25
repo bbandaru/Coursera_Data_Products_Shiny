@@ -1,0 +1,180 @@
+"SECTOR","STATE","YEAR","TYPE","STATUS","COST"
+"Infrastructure","AU-QLD",2019,"EXPANSION","Feasibility",1800
+"Infrastructure","AU-QLD",2017,"EXPANSION","Feasibility",1400
+"Coal","AU-QLD",2018,"NEW PROJECT","Feasibility",8200
+"Infrastructure","AU-WA",2015,"EXPANSION","Completed",300
+"Gold","AU-WA",2016,"NEW PROJECT","Announced",244
+"Coal","AU-NSW",2016,"EXPANSION","Committed",994
+"Infrastructure","AU-QLD",2019,"NEW PROJECT","Feasibility",1000
+"Infrastructure","AU-QLD",2018,"NEW PROJECT","Feasibility",600
+"Coal","AU-NSW",2017,"EXPANSION","Feasibility",83
+"LNG, Gas, Oil","AU-QLD",2015,"NEW PROJECT","Committed",24700
+"Iron Ore","AU-WA",2018,"NEW PROJECT","Feasibility",1165
+"Iron Ore","AU-WA",2021,"NEW PROJECT","Feasibility",3300
+"Coal","AU-QLD",2015,"EXPANSION","Committed",311
+"Coal","AU-QLD",2019,"EXPANSION","Feasibility",100
+"LNG, Gas, Oil","AU-VIC",2016,"EXPANSION","Committed",200
+"Coal","AU-QLD",2018,"NEW PROJECT","Announced",869
+"Coal","AU-NSW",2017,"EXPANSION","Feasibility",689
+"Coal","AU-NSW",2015,"EXPANSION","Completed",475
+"Lead, Zinc, Silver","AU-NSW",2016,"NEW PROJECT","Feasibility",350
+"Infrastructure","AU-QLD",2018,"NEW PROJECT","Announced",1000
+"LNG, Gas, Oil","AU-QLD",2017,"NEW PROJECT","Feasibility",500
+"Other Commodities","AU-WA",2017,"NEW PROJECT","Feasibility",329
+"LNG, Gas, Oil","AU-WA",2021,"NEW PROJECT","Announced",5000
+"Iron Ore","AU-WA",2021,"NEW PROJECT","Feasibility",810
+"Gold","AU-WA",2016,"REDEVELOPMENT","Feasibility",346
+"Other Commodities","AU-WA",2015,"NEW PROJECT","Committed",775
+"Coal","AU-QLD",2016,"NEW PROJECT","Feasibility",1591
+"Coal","AU-QLD",2017,"NEW PROJECT","Feasibility",16500
+"Coal","AU-NSW",2021,"NEW PROJECT","Announced",1000
+"Copper","AU-SA",2021,"NEW PROJECT","Feasibility",2985
+"LNG, Gas, Oil","AU-NT",2021,"NEW PROJECT","Announced",5000
+"Iron Ore","AU-SA",2019,"NEW PROJECT","Feasibility",3980
+"Gold","AU-WA",2016,"REDEVELOPMENT","Feasibility",117
+"Gold","AU-QLD",2015,"EXPANSION","Committed",246
+"Coal","AU-QLD",2019,"NEW PROJECT","Feasibility",8800
+"Coal","AU-QLD",2021,"NEW PROJECT","Feasibility",500
+"Coal","AU-QLD",2018,"NEW PROJECT","Feasibility",250
+"Coal","AU-QLD",2016,"NEW PROJECT","Feasibility",50
+"LNG, Gas, Oil","AU-WA",2015,"EXPANSION","Completed",526
+"Copper","AU-NSW",2017,"NEW PROJECT","Feasibility",420
+"LNG, Gas, Oil","AU-NT",2021,"NEW PROJECT","Announced",5000
+"Other Commodities","AU-WA",2016,"NEW PROJECT","Feasibility",146
+"Infrastructure","AU-WA",2015,"NEW PROJECT","Completed",178
+"Gold","AU-WA",2016,"NEW PROJECT","Feasibility",68
+"Other Commodities","AU-WA",2018,"NEW PROJECT","Feasibility",726
+"Other Commodities","AU-VIC",2016,"NEW PROJECT","Feasibility",518
+"Coal","AU-QLD",2014,"NEW PROJECT","Completed",350
+"Other Commodities","AU-NSW",2017,"NEW PROJECT","Feasibility",996
+"Lead, Zinc, Silver","AU-QLD",2017,"NEW PROJECT","Committed",1456
+"Coal","AU-QLD",2017,"NEW PROJECT","Committed",1254
+"Infrastructure","AU-WA",2016,"EXPANSION","Committed",140
+"Coal","AU-QLD",2019,"NEW PROJECT","Feasibility",500
+"LNG, Gas, Oil","AU-WA",2021,"NEW PROJECT","Announced",2500
+"Iron Ore","AU-WA",2021,"NEW PROJECT","Feasibility",605
+"Infrastructure","AU-WA",2018,"EXPANSION","Feasibility",250
+"Gold","AU-WA",2017,"NEW PROJECT","Feasibility",127
+"LNG, Gas, Oil","AU-QLD",2015,"NEW PROJECT","Committed",18500
+"Gold","AU-WA",2016,"NEW PROJECT","Feasibility",60
+"LNG, Gas, Oil","AU-NSW",2018,"NEW PROJECT","Feasibility",200
+"Infrastructure","AU-QLD",2015,"EXPANSION","Committed",130
+"LNG, Gas, Oil","AU-WA",2021,"EXPANSION","Feasibility",5000
+"LNG, Gas, Oil","AU-WA",2015,"NEW PROJECT","Committed",54000
+"Aluminium, Alumina, Bauxite","AU-NSW",2018,"NEW PROJECT","Announced",250
+"Gold","AU-WA",2017,"NEW PROJECT","Announced",250
+"LNG, Gas, Oil","AU-WA",2016,"EXPANSION","Committed",2500
+"LNG, Gas, Oil","AU-WA",2019,"EXPANSION","Announced",5000
+"Coal","AU-QLD",2016,"NEW PROJECT","Committed",1950
+"Infrastructure","AU-QLD",2015,"EXPANSION","Committed",3540
+"Other Commodities","AU-TAS",2018,"NEW PROJECT","Announced",127
+"Infrastructure","AU-NSW",2015,"NEW PROJECT","Committed",150
+"Copper","AU-SA",2017,"NEW PROJECT","Feasibility",850
+"Nickel","AU-WA",2019,"NEW PROJECT","Announced",660
+"LNG, Gas, Oil","AU-NT",2017,"NEW PROJECT","Committed",34000
+"Iron Ore","AU-WA",2015,"NEW PROJECT","Completed",358
+"Iron Ore","AU-WA",2015,"NEW PROJECT","Completed",200
+"Uranium","AU-QLD",2021,"NEW PROJECT","Announced",500
+"Copper","AU-NT",2017,"NEW PROJECT","Feasibility",220
+"LNG, Gas, Oil","AU-WA",2016,"NEW PROJECT","Committed",1200
+"Gold","AU-WA",2016,"NEW PROJECT","Feasibility",77
+"Copper","AU-SA",2016,"NEW PROJECT","Feasibility",363
+"Lead, Zinc, Silver","AU-NSW",2017,"NEW PROJECT","Announced",67
+"Coal","AU-QLD",2019,"NEW PROJECT","Feasibility",4000
+"Other Commodities","AU-WA",2015,"NEW PROJECT","Committed",70
+"Uranium","AU-WA",2021,"NEW PROJECT","Announced",1000
+"LNG, Gas, Oil","AU-VIC",2016,"NEW PROJECT","Feasibility",200
+"Iron Ore","AU-WA",2021,"NEW PROJECT","Feasibility",3500
+"Other Commodities","AU-SA",2016,"NEW PROJECT","Feasibility",49
+"Lead, Zinc, Silver","AU-QLD",2015,"EXPANSION","Committed",59
+"LNG, Gas, Oil","AU-WA",2019,"EXPANSION","Announced",1500
+"Other Commodities","AU-VIC",2018,"EXPANSION","Announced",285
+"Other Commodities","AU-VIC",2017,"NEW PROJECT","Feasibility",45
+"Coal","AU-VIC",2017,"NEW PROJECT","Feasibility",143
+"Coal","AU-VIC",2015,"NEW PROJECT","Feasibility",84
+"Copper","AU-QLD",2016,"NEW PROJECT","Feasibility",294
+"LNG, Gas, Oil","AU-VIC",2016,"EXPANSION","Committed",1000
+"Iron Ore","AU-WA",2018,"NEW PROJECT","Feasibility",1900
+"Coal","AU-NSW",2015,"NEW PROJECT","Committed",767
+"Gold","AU-NSW",2017,"NEW PROJECT","Announced",500
+"Other Commodities","AU-QLD",2017,"NEW PROJECT","Feasibility",345
+"Coal","AU-QLD",2016,"NEW PROJECT","Feasibility",100
+"Coal","AU-NSW",2015,"EXPANSION","Committed",70
+"Coal","AU-QLD",2014,"EXPANSION","Completed",500
+"Other Commodities","AU-NT",2016,"NEW PROJECT","Feasibility",70
+"Coal","AU-NSW",2016,"EXPANSION","Feasibility",120
+"Infrastructure","AU-NSW",2015,"EXPANSION","Completed",100
+"Coal","AU-QLD",2016,"NEW PROJECT","Feasibility",148
+"Other Commodities","AU-QLD",2017,"NEW PROJECT","Feasibility",54
+"Other Commodities","AU-NT",2017,"NEW PROJECT","Feasibility",422
+"Coal","AU-NSW",2019,"NEW PROJECT","Announced",2000
+"Copper","AU-QLD",2017,"NEW PROJECT","Feasibility",95
+"Copper","AU-QLD",2018,"NEW PROJECT","Feasibility",478
+"Iron Ore","AU-WA",2020,"NEW PROJECT","Feasibility",177
+"Other Commodities","AU-QLD",2016,"NEW PROJECT","Feasibility",76
+"Gold","AU-WA",2016,"NEW PROJECT","Feasibility",195
+"Gold","AU-NT",2017,"EXPANSION","Feasibility",1046
+"Iron Ore","AU-WA",2015,"NEW PROJECT","Completed",71
+"Nickel","AU-WA",2015,"REDEVELOPMENT","Feasibility",197
+"Uranium","AU-WA",2018,"NEW PROJECT","Feasibility",378
+"LNG, Gas, Oil","AU-NSW",2020,"NEW PROJECT","Feasibility",2000
+"Nickel","AU-WA",2019,"NEW PROJECT","Feasibility",264
+"Coal","AU-QLD",2017,"EXPANSION","Feasibility",896
+"Coal","AU-QLD",2019,"NEW PROJECT","Announced",400
+"Other Commodities","AU-NT",2019,"NEW PROJECT","Feasibility",1408
+"Other Commodities","AU-WA",2016,"NEW PROJECT","Feasibility",70
+"Coal","AU-QLD",2018,"NEW PROJECT","Feasibility",652
+"Coal","AU-QLD",2018,"NEW PROJECT","Feasibility",1120
+"Coal","AU-QLD",2020,"NEW PROJECT","Feasibility",520
+"Nickel","AU-WA",2016,"NEW PROJECT","Committed",443
+"Copper","AU-SA",2021,"EXPANSION","Announced",5000
+"Other Commodities","AU-WA",2017,"NEW PROJECT","Feasibility",167
+"Other Commodities","AU-QLD",2017,"NEW PROJECT","Feasibility",1775
+"Iron Ore","AU-WA",2021,"NEW PROJECT","Feasibility",164
+"LNG, Gas, Oil","AU-WA",2018,"NEW PROJECT","Committed",1200
+"Iron Ore","AU-WA",2015,"EXPANSION","Committed",599
+"Infrastructure","AU-WA",2017,"NEW PROJECT","Announced",5000
+"Infrastructure","AU-SA",2017,"NEW PROJECT","Feasibility",663
+"Infrastructure","AU-QLD",2016,"EXPANSION","Feasibility",150
+"Lead, Zinc, Silver","AU-SA",2015,"REDEVELOPMENT","Committed",514
+"LNG, Gas, Oil","AU-WA",2017,"NEW PROJECT","Committed",12600
+"Coal","AU-QLD",2018,"NEW PROJECT","Announced",5000
+"LNG, Gas, Oil","AU-QLD",2014,"NEW PROJECT","Committed",20400
+"Uranium","AU-NT",2016,"EXPANSION","Announced",500
+"Gold","AU-NT",2016,"NEW PROJECT","Announced",250
+"Iron Ore","AU-WA",2015,"NEW PROJECT","Committed",10700
+"LNG, Gas, Oil","AU-WA",2021,"NEW PROJECT","Feasibility",14000
+"LNG, Gas, Oil","AU-VIC",2020,"NEW PROJECT","Announced",1000
+"Iron Ore","AU-WA",2016,"NEW PROJECT","Committed",117
+"Lead, Zinc, Silver","AU-WA",2016,"NEW PROJECT","Feasibility",70
+"Aluminium, Alumina, Bauxite","AU-QLD",2018,"EXPANSION","Feasibility",1500
+"LNG, Gas, Oil","AU-WA",2015,"NEW PROJECT","Completed",117
+"Coal","AU-NSW",2018,"NEW PROJECT","Feasibility",800
+"Coal","AU-NSW",2017,"EXTENSION","Feasibility",75
+"LNG, Gas, Oil","AU-QLD",2019,"NEW PROJECT","Feasibility",1500
+"Coal","AU-QLD",2016,"NEW PROJECT","Announced",700
+"Coal","AU-QLD",2018,"NEW PROJECT","Feasibility",560
+"Other Commodities","AU-NSW",2017,"NEW PROJECT","Feasibility",88
+"Coal","AU-QLD",2016,"NEW PROJECT","Feasibility",500
+"Copper","AU-WA",2016,"NEW PROJECT","Announced",70
+"Other Commodities","AU-WA",2018,"NEW PROJECT","Announced",393
+"Gold","AU-WA",2016,"NEW PROJECT","Committed",65
+"Coal","AU-QLD",2017,"NEW PROJECT","Announced",800
+"Other Commodities","AU-SA",2016,"EXPANSION","Committed",50
+"Other Commodities","AU-VIC",2017,"NEW PROJECT","Announced",500
+"Coal","AU-QLD",2015,"NEW PROJECT","Feasibility",300
+"Infrastructure","AU-WA",2015,"EXPANSION","Committed",325
+"Infrastructure","AU-WA",2015,"EXPANSION","Completed",2050
+"Coal","AU-QLD",2017,"NEW PROJECT","Feasibility",795
+"Other Commodities","AU-QLD",2017,"NEW PROJECT","Feasibility",138
+"Infrastructure","AU-WA",2018,"NEW PROJECT","Feasibility",7000
+"Uranium","AU-QLD",2021,"NEW PROJECT","Announced",500
+"LNG, Gas, Oil","AU-WA",2016,"NEW PROJECT","Committed",29000
+"Infrastructure","AU-QLD",2015,"NEW PROJECT","Completed",2600
+"Infrastructure","AU-QLD",2015,"NEW PROJECT","Committed",858
+"Uranium","AU-WA",2017,"NEW PROJECT","Feasibility",315
+"Iron Ore","AU-WA",2021,"NEW PROJECT","Announced",250
+"Nickel","AU-WA",2018,"NEW PROJECT","Feasibility",2500
+"LNG, Gas, Oil","AU-WA",2015,"EXPANSION","Committed",370
+"Uranium","AU-WA",2021,"NEW PROJECT","Announced",1000
+"Iron Ore","AU-WA",2018,"NEW PROJECT","Feasibility",1060
